@@ -1,0 +1,27 @@
+S   135-25-1234 Smith   Sophia      DevOps          Developer               70000
+H   135-67-5462 Johnaon  Jacob      SecOps          Pentester               30		60.50
+S   252-34-6728 William  Emma       DevOps          DBExpert                100000
+S   237-12-1289 Miller	Mason         DevOps          CloudArchitect          80000
+S   581-23-4536 Jones	Jayden         SecOps          Pentester               250000
+S   501-56-9724 Rogers	Mia           DevOps          Auditor                 90000
+H   408-67-8234 Cook 	Chloe         DevOps          QAEngineer            40		45.10
+S   516-34-6524 Morris	Daniel        DevOps          ProductOwner            300000
+H   526-47-2435 Smith	Natalie         DevOps          Developer            30		50.25
+S   530-46-8245 Johnson	Grace        SecOps          SecurityEngineer        300000
+S   035-35-6472 Allen 	Avery         DevOps          TechnicalLead           250000
+S   222-35-9324 Youn	Joshua          DevOps          ScrumMaster             150000
+S   407-36-1285 Hall	Elijah          DevOps          QAEngineer              100000
+S   251-98-2836 Wright	David         Devops          CloudArchitect          200000
+H   627-67-9879 Rogers	Andrew        Devops          SystemAdmin             50	40.30
+S   509-45-0909 Lee 	Joshua         SecOps          SecurityArchitect       250000
+S   408-12-8976 Thomson	Stewart      DevOps          DeploymentEngineer      250000
+S   425-90-2010 Sharma	Sanjeev       DevOps          WorldwideLead           350000
+S   433-44-2324 Sellters Sandra      AccountFinance  AccountingManager       200000
+S   486-88-9981 Arthur	Dennis        AccountFinance  Accountant              60000
+H   478-77-2763 Weaver	Daniel        Sales           SalesManager           30		25.50
+S   505-55-8786 Byron 	Amanda        Sales           SalesAssociate          70000
+S   429-30-3678 Finley	Megan         Administration  OfficeManager           80000
+
+
+
+
